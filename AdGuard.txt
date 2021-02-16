@@ -3,3 +3,5 @@
 ||tf1.fr
 ||6play.fr
 ||6cloud.fr
+||m6web.fr
+
