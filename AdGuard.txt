@@ -1,0 +1,4 @@
+# AdAway WhiteList
+# 
+||tf1.fr
+||6play.fr
